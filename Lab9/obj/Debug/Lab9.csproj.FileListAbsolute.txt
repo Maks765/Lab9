@@ -1,0 +1,10 @@
+C:\Users\maksi\source\repos\Lab9\bin\Debug\Lab9.exe.config
+C:\Users\maksi\source\repos\Lab9\bin\Debug\Lab9.exe
+C:\Users\maksi\source\repos\Lab9\bin\Debug\Lab9.pdb
+C:\Users\maksi\source\repos\Lab9\obj\Debug\Lab9.csproj.AssemblyReference.cache
+C:\Users\maksi\source\repos\Lab9\obj\Debug\Lab9.Form1.resources
+C:\Users\maksi\source\repos\Lab9\obj\Debug\Lab9.Properties.Resources.resources
+C:\Users\maksi\source\repos\Lab9\obj\Debug\Lab9.csproj.GenerateResource.cache
+C:\Users\maksi\source\repos\Lab9\obj\Debug\Lab9.csproj.CoreCompileInputs.cache
+C:\Users\maksi\source\repos\Lab9\obj\Debug\Lab9.exe
+C:\Users\maksi\source\repos\Lab9\obj\Debug\Lab9.pdb
